@@ -14,7 +14,7 @@ public class EmpWageBuilderUC2{
                 }
                 else{
                         System.out.println("Employee is absent");
-	      empHours=0;
+						      empHours=0;
                 }
 
                 empWagesPerDay=empHours*ratePerHour;
